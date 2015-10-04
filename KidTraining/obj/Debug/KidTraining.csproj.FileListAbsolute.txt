@@ -1,0 +1,12 @@
+C:\Users\Tiki Wan\Documents\GitHub\KidQuestions\KidTraining\KidTraining\bin\Debug\KidTraining.exe.config
+C:\Users\Tiki Wan\Documents\GitHub\KidQuestions\KidTraining\KidTraining\bin\Debug\KidTraining.exe
+C:\Users\Tiki Wan\Documents\GitHub\KidQuestions\KidTraining\KidTraining\bin\Debug\KidTraining.pdb
+C:\Users\Tiki Wan\Documents\GitHub\KidQuestions\KidTraining\KidTraining\obj\Debug\KidTraining.csprojResolveAssemblyReference.cache
+C:\Users\Tiki Wan\Documents\GitHub\KidQuestions\KidTraining\KidTraining\obj\Debug\KidTraining.exe
+C:\Users\Tiki Wan\Documents\GitHub\KidQuestions\KidTraining\KidTraining\obj\Debug\KidTraining.pdb
+C:\Users\Tiki Wan\Documents\GitHub\KidQuestions\KidTraining\bin\Debug\KidTraining.exe.config
+C:\Users\Tiki Wan\Documents\GitHub\KidQuestions\KidTraining\obj\Debug\KidTraining.exe
+C:\Users\Tiki Wan\Documents\GitHub\KidQuestions\KidTraining\obj\Debug\KidTraining.pdb
+C:\Users\Tiki Wan\Documents\GitHub\KidQuestions\KidTraining\bin\Debug\KidTraining.exe
+C:\Users\Tiki Wan\Documents\GitHub\KidQuestions\KidTraining\bin\Debug\KidTraining.pdb
+C:\Users\Tiki Wan\Documents\GitHub\KidQuestions\KidTraining\obj\Debug\KidTraining.csprojResolveAssemblyReference.cache
